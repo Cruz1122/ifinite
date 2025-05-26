@@ -14,6 +14,12 @@ Resuelve acertijos en un laboratorio futurista manipulado interruptores, luces y
 - **UI dinámica**: Panel de objetivos con animaciones de fade y desplazamiento.
 - **Feedback visual y sonoro**: Luces, sonidos y animaciones al acertar o fallar.
 
+## ¿Cómo lo instalo?
+1. Descarga el archivo .rar.
+2. Descomprime el archivo.
+3. Ejecuta **Ifinite Escape.exe**.
+4. ¡A jugar!
+
 ## 🛠 Tecnologías
 
 - **Motor**: Unity 2021.3 LTS (URP)  
